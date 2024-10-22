@@ -1,4 +1,4 @@
-# 🔮 Glassmorphism Login Form
+# Glassmorphism Login Form
 
 Welcome to the **Glassmorphism Login Form** repository! This project implements a sleek and modern login form using the popular **glassmorphism** design trend. The form features frosted glass effects, smooth animations, and a minimalistic user interface.
 
